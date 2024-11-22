@@ -28,7 +28,6 @@ namespace GreenFundGS.Configurations
             services.AddScoped<IDonationService, DonationService>();
             services.AddScoped<IRewardService, RewardService>();
 
-            // Outros serviços podem ser adicionados aqui
         }
     }
 }
