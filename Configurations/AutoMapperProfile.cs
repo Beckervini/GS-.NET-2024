@@ -26,9 +26,7 @@ namespace GreenFundGS.Configurations
             // Configuração de mapeamento entre RewardDto e Reward
             CreateMap<RewardDto, Reward>()
                 .ReverseMap(); // Permite mapeamento bidirecional
-
-            // Adicione outros mapeamentos aqui conforme necessário, por exemplo:
-            // CreateMap<OutraDto, OutraModel>().ReverseMap();
+                
         }
     }
 }
