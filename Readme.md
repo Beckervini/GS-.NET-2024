@@ -10,17 +10,15 @@ Nosso objetivo é gerar um impacto positivo, não só no meio ambiente, mas tamb
 
 ---
 
-## ✒️ Desenvolvedores
+## ✒️ Desenvolvedor
 
-- **RM98163** - Júlia Martins Santana Figueiredo - 2TDSA  
-- **RM550562** - Larissa Akemi Iwamoto - 2TDSA  
-- **RM550858** - Murilo Ribeiro Valério da Silva - 2TDSA  
+
 - **RM94679** - Vinicius Becker Prediger - 2TDSS  
-- **RM98570** - Gabriel Souza de Queiroz - 2TDSS  
+
 
 ---
 
-## 📌 Índice
+##  Índice
 
 1. [Introdução](#introdução)  
 2. [Principais Funcionalidades](#principais-funcionalidades)  
@@ -119,4 +117,4 @@ A API é coberta por testes automatizados, utilizando as seguintes ferramentas:
 
 ## 💚 Expressões de Gratidão
 
-Gostaríamos de expressar nossa sincera gratidão aos professores que contribuíram para o sucesso deste projeto. A dedicação de todos foi essencial para nosso aprendizado e crescimento. Agradecemos pelo apoio, orientação e esforço compartilhado, que foram fundamentais para superarmos desafios e alcançarmos nossos objetivos.
+Gostaria de expressar minha sincera gratidão aos professores que contribuíram para o sucesso deste projeto. A dedicação de todos foi essencial para meu aprendizado e crescimento. Agradeço pelo apoio, orientação e esforço compartilhado, que foram fundamentais para superar desafios e alcançar meus objetivos.
